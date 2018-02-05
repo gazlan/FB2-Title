@@ -1,0 +1,7 @@
+-*-   FBBT 1.0   *   Copyright (c) Gazlan, 2014   -*-
+
+Replace file name with <book-title> tag
+
+Usage: fbbt.com wildcards
+
+complains_n_suggestions direct to gazlan@yandex.ru
